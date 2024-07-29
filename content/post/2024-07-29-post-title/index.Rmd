@@ -52,6 +52,6 @@ To me, it's quite clear that the digiscoping setup with the Sony Xperia results 
 
 As for the beauty of pictures, I believe the Sony has really high potential. I'll revisit both technical and aesthetic aspects in future posts.
 
-
+![](data/20240728_185315.jpg)
 
 
