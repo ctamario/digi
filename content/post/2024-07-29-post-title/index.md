@@ -9,7 +9,7 @@ tags: [Comparison, side-by-side, vs.]
 
 # Exploring the capabilities of a new phone
 
-As a birder, getting consistently good photos is crucial. The difference between ecstacy and catastrophe often depends on getting documentation that supports your claimed identification. I recently got a new phone and I'm curious about its capabilities of taking good photos, both in terms of being able to capture detailed information down to a pixel level, but also in terms of taking aesthetically pleasing photos of birds and their surroundings. 
+As a birder, getting good photos consistently is really important. The difference between euphoria and catastrophe often depends on getting documentation that supports your claimed identification. I recently got a new phone and I'm curious about its capabilities of taking good photos, both in terms of being able to capture detailed information down to a pixel level, but also in terms of taking aesthetically pleasing photos of birds and their surroundings. Below, I will compare photos taken with the phone with photos taken with a proper camera setup. 
 
 # Some notes on editing
 

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comparison on On the art of digiscoping</title>
-    <link>/tags/comparison/</link>
+    <link>//localhost:4321/tags/comparison/</link>
     <description>Recent content in Comparison on On the art of digiscoping</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/comparison/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/tags/comparison/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digiscoping vs DSLR camera</title>
-      <link>/2024/07/29/digiscoping-vs-dslr/</link>
+      <link>//localhost:4321/2024/07/29/digiscoping-vs-dslr/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/2024/07/29/digiscoping-vs-dslr/</guid>
+      <guid>//localhost:4321/2024/07/29/digiscoping-vs-dslr/</guid>
       <description>Exploring the capabilities of a new phone As a birder, getting consistently good photos is crucial. The difference between ecstacy and catastrophe often depends on getting documentation that supports your claimed identification. I recently got a new phone and I&amp;rsquo;m curious about its capabilities of taking good photos, both in terms of being able to capture detailed information down to a pixel level, but also in terms of taking aesthetically pleasing photos of birds and their surroundings.</description>
     </item>
   </channel>
