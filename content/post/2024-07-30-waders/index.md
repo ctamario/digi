@@ -13,6 +13,8 @@ A few weeks ago I went to eastern Öland to look at waders. It was the first tim
 
 ![](data/20240714_165556.jpg)
 
+![](data/20240714_165758.jpg)
+
 # Focus peaking
 
 First of all, I'm impressed by the ability of the phone to snap into focus despite the scope being *out of focus*. With digiscoping, you have to guess approximately where the focus of the scope is and let the phone do the final adjusting. Or, if you are using manual focus, you have to see on the phone screen if the photo is in focus. In both cases focus peaking works wonders. 
