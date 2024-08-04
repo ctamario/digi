@@ -6,14 +6,21 @@
     <description>Recent content in Posts on On the art of digiscoping</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Focusing on repeatability</title>
+      <title>24mm binned vs 48mm unbinned</title>
+      <link>//localhost:4321/2024/08/03/24mm-vs-48mm/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2024/08/03/24mm-vs-48mm/</guid>
+      <description>Different pixel outputs The sensor on the 5V is a 48-megapixel sensor, but the largest output is 12-megapixel photos. This is because the sensor combines 4 &amp;lsquo;sensor pixels&amp;rsquo; to produce 1 &amp;lsquo;image pixel&amp;rsquo; in the 24mm mode, a process called pixel binning. This likely results in reduced noise but at the cost of resolution.&#xA;In the 48mm mode, photos are twice as zoomed in, but the output is still 12 megapixels.</description>
+    </item>
+    <item>
+      <title>Waders and focus</title>
       <link>//localhost:4321/2024/07/30/waders/</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/2024/07/30/waders/</guid>
-      <description>Shooting waders I went to Öland to look at waders.</description>
+      <description>A few weeks ago I went to eastern Öland to look at waders. It was the first time using the digiscoping setup properly.&#xA;Focus peaking First of all, I&amp;rsquo;m impressed by the ability of the phone to snap into focus despite the scope being out of focus. With digiscoping, you have to guess approximately where the focus of the scope is and let the phone do the final adjusting. Or, if you are using manual focus, you have to see on the phone screen if the photo is in focus.</description>
     </item>
     <item>
       <title>Digiscoping vs DSLR camera</title>

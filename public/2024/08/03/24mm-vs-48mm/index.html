@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4321&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.129.0">
+
+
+<title>24mm binned vs 48mm unbinned - On the art of digiscoping</title>
+<meta property="og:title" content="24mm binned vs 48mm unbinned - On the art of digiscoping">
+
+
+  <link href='//localhost:4321/favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo2.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/">Main</a></li>
+    
+    <li><a href="/about/">About</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">3 min read</span>
+    
+
+    <h1 class="article-title">24mm binned vs 48mm unbinned</h1>
+
+    
+    <span class="article-date">2024-08-03</span>
+    
+
+    <div class="article-content">
+      
+      <h1 id="different-pixel-outputs">Different pixel outputs</h1>
+<p>The sensor on the 5V is a 48-megapixel sensor, but the largest output is 12-megapixel photos. This is because the sensor combines 4 &lsquo;sensor pixels&rsquo; to produce 1 &lsquo;image pixel&rsquo; in the 24mm mode, a process called pixel binning. This likely results in reduced noise but at the cost of resolution.</p>
+<p>In the 48mm mode, photos are twice as zoomed in, but the output is still 12 megapixels. However, they are not digitally upscaled. As I understand it, photos in the 48mm mode are captured by individual sensor pixels in the center of the sensor, omitting the pixel binning process. This means that the 2x zoom is not a digital zoom but a type of &ldquo;optical zoom&rdquo; achieved by capturing (and keeping) the information on a finer scale.</p>
+<p>Sony writes the following:</p>
+<blockquote>
+<p><a href="https://www.sony.eu/presscentre/sony-introduces-its-latest-premium-smartphone-xperia-5-v">&ldquo;48mm is equivalent to 2x optical focal length, so you can capture the subjects of your images in a larger size without worrying about image quality deterioration.&rdquo;</a></p>
+</blockquote>
+<h1 id="birders-are-croppers">Birders are croppers</h1>
+<p>This implies that bird photographers - who often only use the central area of photos where the bird is - can chose not to pixel bin, and instead use the 48mm mode where the sensor&rsquo;s native resolution is utilized.</p>
+<p><img src="data/croppers.jpg" alt=""></p>
+<p>That&rsquo;s all in theory. But what differences are there between the two modes, in practice? Is unbinned native resolution king, or does binning provide a less noisy and therefore a better result? Are there scenarios where we would prefer one over the other?</p>
+<p>Let&rsquo;s have a look.</p>
+<h1 id="digiscoping-with-the-two-modes">Digiscoping with the two modes</h1>
+<h2 id="low-light-situations">Low light situations</h2>
+<p>The following RAW photos are imported into Lightroom and directly exported with the baseline settings. The photos were then imported into Photoshop CS2 where the 24mm photos are upscaled 200% to match the size of the 48mm photo, and put side-by-side.</p>
+<p>The 24mm mode seem to collect slightly more light, as the ISO decreases when switching from 48mm to 24mm at the same brightness.</p>
+<p><img src="data/old_herring_24_48.jpg" alt=""></p>
+<p>To me, the 24mm photo of the adult herring gull looks more distinct and snappy. It&rsquo;s also less noisy and have more depth.</p>
+<p><img src="data/young_herring_24_48.jpg" alt=""></p>
+<p>Not sure if I see any difference between the photos of the young herring gull.</p>
+<p>Below are some pictures of a lighthouse 2.24 kilometers away from where I was standing. I also put three photos side-by-side to provide some replication due to individual sample differences.</p>
+<p><img src="data/lighthouse.jpg" alt=""></p>
+<p>Again, the 24mm pixel binned pictures look more distinct to me. A little less flat.</p>
+<p><img src="data/lighthouse_zoom.jpg" alt=""></p>
+<p>Zooming in further confirms that the 24mm photo samples are more distinct. But they also have some what I would consider sharpening artifacts.</p>
+<p>To be continu</p>
+<h1 id="not-all-same-gen-xperia-phones-have-the-48mm-mode">Not all same gen Xperia phones have the 48mm mode</h1>
+<p>The bigger sister of the 5V, the 1V, does not support 48mm mode, <a href="https://www.reddit.com/r/SonyXperia/comments/1d8nbpi/im_still_trying_to_bring_the_48mm_mode_to_the/">much to the dismay of its users</a>. The 1V utilizes digital upscaling in its 48mm mode. It&rsquo;s a strange choice by Sony. I did not know about this before I bought the 5V, meaning I accidentally bought the right phone. Phew.</p>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+  
+
+
+  </body>
+</html>
+

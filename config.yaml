@@ -30,7 +30,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: logo2.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
