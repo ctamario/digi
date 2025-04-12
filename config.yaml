@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: A space for reflection.
+title: "blogdown #142532"
 theme: hugo-lithium
 ignoreFiles:
   - \.Rmd$
