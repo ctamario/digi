@@ -13,6 +13,6 @@ I don't know why I didn't revisit this sooner. I've been wondering about it for 
 
 ![](data/binned_vs_unbinned.gif)
 
-This was with the Kowa TSN-883 at 25x (meaning a lot of light). I guess experimenting with the zoom is next. I wonder if there is a perfect zoom level where you reap the gains of more magnification while not losing lose too much light. 
+This was with the Kowa TSN-883 at 25x (meaning a lot of light). I guess experimenting with the zoom is next. I wonder if there is a perfect zoom level where you reap the benefits of more magnification while not losing too much light. 
 
 
